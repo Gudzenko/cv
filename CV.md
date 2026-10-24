@@ -260,6 +260,8 @@ Development of a mobile robot for pouring cocktails. You can choose an alcoholic
 - **2026:** Production Voice AI: SIP Telephony LiveKit AWS Docker Python (Udemy)
 - **2026:** Computer Science & Robotics - Learn by Doing! Linux to ROS 2 (Udemy)
 - **2026:** The Complete React JS Course (Redux / Router / Tailwind CSS) (Udemy)
+- **2026:** LangChain Bootcamp Course: Build Real LLM Apps With Python (Udemy)
+- **2026:** Product Management: Strategy, Discovery, Metrics, 580+ Tools (Udemy)
 
 ## Academic Experience
 
